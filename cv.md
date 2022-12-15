@@ -14,7 +14,7 @@ I'm motivated for career change goal.
 ## Education 
  
 * Master degree in ecology(2018),
-* Courses Netology (html, css)
+* Course Netology (html, css, base js)
 
 #### Languages
 
